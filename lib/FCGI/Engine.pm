@@ -186,7 +186,7 @@ passed to this parameter B<must> be a subclass of L<FCGI::ProcManager>.
 =head2 Constructor
 
 In addition to the command line parameters, there are a couple
-parameters that the constuctor expects.
+parameters that the constructor expects.
 
 =over 4
 
